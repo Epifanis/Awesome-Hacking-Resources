@@ -2,7 +2,7 @@
 
 **A collection of awesome lists for hackers, pentesters & security researchers.**
 
-A curated list of awesome Hacking Tools. Your contributions are always welcome !
+A curated list of awesome wat is dit nu weer??Hacking Tools. Your contributions are always welcome !
 
 ### Awesome Repositories
 Repository | Description
